@@ -3,7 +3,7 @@
  *
  * Computer Science 50
  * Problem Set 4
- *
+ * 
  * Recovers JPEGs from a forensic image.
  */
 #include <stdio.h>
